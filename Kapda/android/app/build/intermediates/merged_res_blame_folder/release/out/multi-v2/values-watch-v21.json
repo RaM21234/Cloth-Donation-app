@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kapda.app-mergeReleaseResources-37:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jadha\\.gradle\\caches\\transforms-3\\715888d467b6f715a66c8d6c651fe5cf\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

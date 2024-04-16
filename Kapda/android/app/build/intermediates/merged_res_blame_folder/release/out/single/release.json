@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_id3.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_id3.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_id1.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_id1.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_insta.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_insta.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_google.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_google.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_splash.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_splash.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_login.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_login.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_1.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_1.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_signup.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_signup.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_setting.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_setting.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_success.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_success.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_facebook.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_facebook.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_video.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_video.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_logo.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_logo.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_resources_avatar.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/resources_avatar.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.kapda.app-main-40:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kapda.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kapda.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.kapda.app-res-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    }
+]

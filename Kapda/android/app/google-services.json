@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394702408006",
+    "project_id": "kapdabank-5b383",
+    "storage_bucket": "kapdabank-5b383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394702408006:android:21398d7668d00357b53d47",
+        "android_client_info": {
+          "package_name": "com.kapda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394702408006-q86r4q3offcgncgg5v0sp45bblj2r542.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kapda",
+            "certificate_hash": "fd1e29c1417522f58e8d353c5746c502be9ffdfa"
+          }
+        },
+        {
+          "client_id": "394702408006-511ndbstkrb0qqm6vrf8tnqpbq65tc9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNDZGK1t_Lx_gkDYYNyR4HkeXwWqa29tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394702408006-511ndbstkrb0qqm6vrf8tnqpbq65tc9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
